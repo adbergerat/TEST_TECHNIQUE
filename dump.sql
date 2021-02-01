@@ -1,6 +1,6 @@
 -- A vous de le créer ! C'est une base de donnée mariaDB
 -- La base de donnée sera "test"
--- La table utilisée sera "user"
+-- La table utilisée sera "users"
 --
 -- La structure contiendra : 
 -- id, integer, unique, autoincrémenté, mandatory
