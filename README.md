@@ -70,20 +70,24 @@ Creation de la base de donnée :
 `docker exec -it test_technique_db_1 mysql -uroot -proot < dump.sql`
 
 ### Ressources
-Token administrateur : 
+**Token administrateur : **
 ```eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaXNBZG1pbiI6dHJ1ZSwiaWF0IjoyNTE2MjM5MDIyfQ.SOPGUnIALZD4lXfxeL1v0n_i9DaO0jcwjNhSmtKAumg```
 
-Token utilisateur : 
+**Token utilisateur :** 
 ```eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoyNTE2MjM5MDIyfQ.kggx5ylVTJWq_-c7mW8hRehry-ikLBQNNeW33k8nKbQ```
 
-Fichier CSV à importer : 
+**Fichier CSV à importer : **
 https://abbeal.s3.fr-par.scw.cloud/datas.csv
 
-Base de donnée : 
-Host : 0.0.0.0:3306
-Database : test
-table : user
-structure : 
+**- Base de donnée : **
+
+**Host :** 0.0.0.0:3306
+
+**Database :** test
+
+**table :** user
+
+**structure : **
 ```
 id (integer), 
 login (string), 
