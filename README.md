@@ -43,11 +43,12 @@ Cette route, une fois requêtée, devra importer le fichier csv, traiter les don
     "id": 1, 
     "name": "Jean Dupont",
     "email": "jean.dupont@email.com",
-    "registredAt": "February 1st 2021, 6:47:58 pm", // (https://momentjs.com/ ;) )
+    "registredAt": "February 1st 2021, 6:47:58 pm",
     "gender": "Male"
 
 }
 ```
+####(https://momentjs.com/ ;) )
 
 Cette route devras afficher les informations d'un user importé a partir de son ID
 
