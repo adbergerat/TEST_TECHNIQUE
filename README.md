@@ -3,7 +3,7 @@
 L'objectif de ce test est de vérifier votre capacité à mettre en place des systèmes ainsi que les bonnes pratiques liées.
 
 # Prérequis
-vous aurez besoin uniquement d'un terminal, de docker et de docker-compose installés.
+vous aurez besoin uniquement d'un terminal, de git, de docker et de docker-compose installés.
 Obtenir docker : https://docs.docker.com/get-docker/
 
 # Exercice
