@@ -26,7 +26,8 @@ Rédigez la migration SQL dans le fichier `dump.sql` avec la structure correspon
     "status": "done", 
     "time": "0.465ms",
     "importedRows": 1000
-}```
+}
+```
 
 Cette route, une fois requêtée, devra importer le fichier csv, traiter les données, et importer le tout dans une base de donnée locale.
 
@@ -45,7 +46,8 @@ Cette route, une fois requêtée, devra importer le fichier csv, traiter les don
     "registredAt": "February 1st 2021, 6:47:58 pm" // (https://momentjs.com/ ;) )
     "gender": "Male"
 
-}```
+}
+```
 
 Cette route devras afficher les informations d'un user importé a partir de son ID
 
