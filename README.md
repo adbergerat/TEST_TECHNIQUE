@@ -15,18 +15,25 @@ Observez bien la structure de donnée du CSV, celle de la BDD, et traitez les in
 Rédigez la migration SQL dans le fichier `dump.sql` avec la structure correspondante.
 
 ### Route d'importation
+
 Route : /import
+
 methode : GET
-response : {
+
+response : ```{
     "status": "done", 
     "time": "0.465ms",
     "importedRows": 1000
-}
+}```
+
 Cette route, une fois requêtée, devra importer le fichier csv, traiter les données, et importer le tout dans une base de donnée locale.
 
 ### Route d'affichage des données
+
 Route : /user/:id
+
 methode : GET
+
 response : ```{
     "id": 1, 
     "name": "Jean Dupont",
@@ -35,6 +42,7 @@ response : ```{
     "gender": "Male"
 
 }```
+
 Cette route devras afficher les informations d'un user importé a partir de son ID
 
 # Bonus
