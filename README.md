@@ -76,10 +76,10 @@ Creation de la base de donnée :
 **Token utilisateur :** 
 ```eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoyNTE2MjM5MDIyfQ.kggx5ylVTJWq_-c7mW8hRehry-ikLBQNNeW33k8nKbQ```
 
-**Fichier CSV à importer : **
+**Fichier CSV à importer :**
 https://abbeal.s3.fr-par.scw.cloud/datas.csv
 
-**- Base de donnée : **
+- Base de donnée :
 
 **Host :** 0.0.0.0:3306
 
