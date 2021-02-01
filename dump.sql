@@ -1,0 +1,13 @@
+-- A vous de le créer ! C'est une base de donnée mariaDB
+-- La base de donnée sera "test"
+-- La table utilisée sera "user"
+--
+-- La structure contiendra : 
+-- id, integer, unique, autoincrémenté, mandatory
+-- login, string, unique, mandatory, max 32 caractères
+-- name, string, mandatory, max 32 caractères
+-- email, string, unique, mandatory, max 32 caractères
+-- registeredAt, Date, à la date actuelle de l'insertion
+-- gender, enum('male', 'female', 'other')
+--
+--pour importer votre structure, référez vous au readme.md
