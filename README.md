@@ -83,4 +83,12 @@ Base de donnée :
 Host : 0.0.0.0:3306
 Database : test
 table : user
-structure : id (integer), login (string), name (string), email (string), registeredAt (date now), gender (enum('male', 'female', 'other'))
+structure : 
+```
+id (integer), 
+login (string), 
+name (string), 
+email (string), 
+registeredAt (date now), 
+gender (enum('male', 'female', 'other'))
+```
