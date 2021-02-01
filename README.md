@@ -16,11 +16,12 @@ Rédigez la migration SQL dans le fichier `dump.sql` avec la structure correspon
 
 ### Route d'importation
 
-**Route :** `/import
+**Route :** `/import`
 
 **methode :** GET
 
-**response :** ```json
+**response :** 
+```json
 {
     "status": "done", 
     "time": "0.465ms",
@@ -35,7 +36,8 @@ Cette route, une fois requêtée, devra importer le fichier csv, traiter les don
 
 **methode :** GET
 
-**response :** ```json
+**response :** 
+```json
 {
     "id": 1, 
     "name": "Jean Dupont",
