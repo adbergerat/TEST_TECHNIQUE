@@ -7,7 +7,7 @@ vous aurez besoin uniquement d'un terminal, de git, de docker et de docker-compo
 Obtenir docker : https://docs.docker.com/get-docker/
 
 # Exercice
-Vous devrez mettre en place une API en Express, avec une route qui ira parser un fichier volumineux, et l'importera dans une base de donnée afin de traiter les informations contenues.
+Vous devrez mettre en place une API en Express, avec une route qui ira télécharger et parser un fichier volumineux, et l'importera dans une base de donnée afin de traiter les informations contenues.
 
 Observez bien la structure de donnée du CSV, celle de la BDD, et traitez les informations en conséquences.
 
