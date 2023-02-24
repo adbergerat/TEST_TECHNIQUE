@@ -1,4 +1,4 @@
-# Test technique
+# (Outdated) Test technique
 # Objectif gobal
 L'objectif de ce test est de vérifier votre capacité à mettre en place des systèmes ainsi que les bonnes pratiques liées.
 
